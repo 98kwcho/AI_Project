@@ -35,5 +35,5 @@ To develop an AI-based gesture control system that uses body movements as input 
 | PM | Park Sangsu | Planning / Coordination |
 | AI Engineer | Cho Kyungwon | Model Design |
 | Vision Engineer | Kim JunHuen | Video Stream Processing |
-| Effect Designer | Beak Dabin Jung gungjun | Visual Effects |
+| Effect Designer | Beak Dabin, Jung Kungjun | Visual Effects |
 
