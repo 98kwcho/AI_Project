@@ -32,8 +32,8 @@ To develop an AI-based gesture control system that uses body movements as input 
 ## 👥 Team Members
 | Role | Name | Description |
 |------|------|-------------|
-| PM |  | Planning / Coordination |
-| AI Engineer |  | Model Design |
-| Vision Engineer |  | Video Stream Processing |
-| Effect Designer |  | Visual Effects |
+| PM | Park Sangsu | Planning / Coordination |
+| AI Engineer | Cho Kyungwon | Model Design |
+| Vision Engineer | Kim JunHuen | Video Stream Processing |
+| Effect Designer | Beak Dabin Jung gungjun | Visual Effects |
 
