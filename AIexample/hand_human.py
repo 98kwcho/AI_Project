@@ -10,7 +10,7 @@ from openvino.runtime import Core, CompiledModel
 # =========================
 # 설정
 # =========================
-MODEL_XML = "intel/human-pose-estimation-0005/FP32/human-pose-estimation-0005.xml"
+MODEL_XML = "workspace/open_model_zoo/demos/human_pose_estimation_demo/python/intel/human-pose-estimation-0005/FP32/human-pose-estimation-0005.xml"
 DEVICE = "AUTO"          # "CPU", "GPU", "AUTO" 등
 CAM_INDEX = 4           # 카메라 인덱스
 
